@@ -2,7 +2,7 @@
 
 ## Hasil Render
 
-https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/TUGAS_1_241061010/
+(https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/TUGAS_1_241061010/)
 
 ## File Tugas
 
