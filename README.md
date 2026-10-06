@@ -2,7 +2,7 @@
 
 ## Hasil Render
 
-https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/P1_241061010/
+https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/TUGAS_1_241061010/
 
 ## File Tugas
 
@@ -19,7 +19,7 @@ Hasil tugas dipublikasikan menggunakan GitHub Pages.
 
 ## Hasil Render
 
-https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/P3_241061010/
+https://ridhof177.github.io/Tugas-Analisis-Data-Kategori/TUGAS_2_241061010/
 
 ## File Tugas
 
